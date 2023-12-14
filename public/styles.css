@@ -57,6 +57,14 @@ header h1{
     background-color: #38bdf8;
 }
 
+footer p{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: #666;
+    font-size: small;
+}
+
 @media(min-width:1000px){
     .card{
         width: 340px;
